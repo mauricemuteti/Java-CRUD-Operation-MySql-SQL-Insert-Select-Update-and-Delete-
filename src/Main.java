@@ -2,8 +2,8 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- * and open the template in the editor.
- * and open the template in the editor.
+ * Java CRUD Operation MySql (SQL Insert, Select, Update and Delete)
+ * https://mauricemuteti.info/java-crud-operation-mysql-sql-insert-select-update-and-delete/
  */
 
 import java.sql.Connection;
